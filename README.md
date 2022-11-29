@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsuresh47" alt="jsuresh47" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/suresh_kumar047" target="blank"><img src="https://img.shields.io/twitter/follow/skumar047?logo=twitter&style=for-the-badge" alt="skumar047" /></a> </p>
+<p align="left"> <a href="https://twitter.com/suresh_kumar047" target="blank"><img src="https://img.shields.io/twitter/follow/suresh_kumar047?logo=twitter&style=for-the-badge" alt="suresh_kumar047" /></a> </p>
 
 - 🔭 I’m currently working on **DevOps Cloud Engineer**
 
